@@ -1,3 +1,5 @@
+0. git lfs clone https://github.com/lineva642/Waste-classification.git
+
 1. Environment installation
 Run the next commands in command line:
 sudo pip install virtualenv
